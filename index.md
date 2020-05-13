@@ -38,17 +38,17 @@
 		<p><b><font size="+1">If you try to steal this work and sell it I will be mad. So please don't. Click <a href="https://en.wikipedia.org/wiki/Vincent_van_Gogh">here</a> for my Wikipedia page.</font></b>
     </p>
 		<h2 class=headers></h2>
-	<img src="Hydrangea.jpg" width="1000";></br>
-    <img src="IMG_3664.jpg" width="1000";></br>
-    <img src="IMG_4471.jpg" width="1000";></br>
-    <img src="Arc- AShenCostello.jpg" width="1000";></br>
-    <img src="Self - Paint.jpg" width="1000";></br>
-    <img src="The Visitor- AShenCostello FINAL.jpg" width="1000";></br>
-    <img src="Village Rooftops- AShenCostello.jpg" width="1000";></br>
-    <img src="F77F56BE-F3D7-4069-AFFC-8A979E9CE681.jpg" width="1000";></br>
-    <img src="Byzantium.jpg" ;>
-    <img src="The Future Husband of Penelope - AShenCostello.jpg" width="1000";>
-    <img src="Self-Portrait with Bow- AShenCostello.jpg" width = "1000";>
+	<img src="img/Hydrangea.jpg" width="1000";></br>
+    	<img src="img/IMG_3664.jpg" width="1000";></br>
+    	<img src="img/IMG_4471.jpg" width="1000";></br>
+    	<img src="img/Arc- AShenCostello.jpg" width="1000";></br>
+    	<img src="img/Self - Paint.jpg" width="1000";></br>
+    	<img src="img/The Visitor- AShenCostello FINAL.jpg" width="1000";></br>
+    	<img src="img/Village Rooftops- AShenCostello.jpg" width="1000";></br>
+    	<img src="img/F77F56BE-F3D7-4069-AFFC-8A979E9CE681.jpg" width="1000";></br>
+    	<img src="img/Byzantium.jpg" ;>
+    	<img src="img/The Future Husband of Penelope - AShenCostello.jpg" width="1000";>
+    	<img src="img/Self-Portrait with Bow- AShenCostello.jpg" width = "1000";>
 
 	</body>
 </html>
