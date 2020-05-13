@@ -37,7 +37,7 @@
 	</p>
 		<p><b><font size="+1">If you try to steal this work and sell it I will be mad. So please don't. Click <a href="https://en.wikipedia.org/wiki/Vincent_van_Gogh">here</a> for my Wikipedia page.</font></b>
     </p>
-		<h2 class=headers></h2>
+
 	<img src="img/Hydrangea.jpg" width="1000";></br>
     	<img src="img/IMG_3664.JPG" width="1000";></br>
     	<img src="img/IMG_4471.JPG" width="1000";></br>
