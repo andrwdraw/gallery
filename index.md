@@ -39,8 +39,8 @@
     </p>
 		<h2 class=headers></h2>
 	<img src="img/Hydrangea.jpg" width="1000";></br>
-    	<img src="img/IMG_3664.jpg" width="1000";></br>
-    	<img src="img/IMG_4471.jpg" width="1000";></br>
+    	<img src="img/IMG_3664.JPG" width="1000";></br>
+    	<img src="img/IMG_4471.JPG" width="1000";></br>
     	<img src="img/Arc- AShenCostello.jpg" width="1000";></br>
     	<img src="img/Self - Paint.jpg" width="1000";></br>
     	<img src="img/The Visitor- AShenCostello FINAL.jpg" width="1000";></br>
