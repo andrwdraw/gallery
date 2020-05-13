@@ -11,21 +11,21 @@
     			image-orientation: from-image;
     		}
       		.headers {
-      			background-color: rgb(10, 40, 150);
+      			background-color: rgb(0, 0, 20);
       			color: rgb(255, 255, 255);
       			text-align: center;
       		}
       		.headers2 {
       			text-align: center;
-      			color: rgb(10, 40, 150);
+      			color: rgb(255, 255, 255);
       		}
       		p {
-      			color: rgb(200, 200, 200);
+      			color: rgb(255, 255, 255);
       			margin-left: 100px;
       			margin-right: 100px;
       		}
       		body {
-      			background-color: rgb(10, 100, 20);
+      			background-color: rgb(0, 0, 5);
       		}
     	</style>
 	</head>
