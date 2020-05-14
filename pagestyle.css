@@ -9,6 +9,9 @@
 			outline-width: thick;
 			outline-style: inset;
     }
+a {
+	text-decoration: none;
+}
 img {
 			margin-top: 20px;
   		margin-bottom: 20px;
